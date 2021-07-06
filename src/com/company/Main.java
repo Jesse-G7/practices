@@ -69,5 +69,6 @@ public class Main {
 
 
         System.out.println("hot-fix branch");
+        System.out.println("hot-fix commit2");
     }
 }
