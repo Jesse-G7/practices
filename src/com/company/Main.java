@@ -54,7 +54,6 @@ public class Main {
         }
 
     }
-    ////
 
     public void server()throws IOException{
         ServerSocket ss = new ServerSocket(8899);
@@ -71,5 +70,6 @@ public class Main {
 
         System.out.println("hot-fix branch");
         System.out.println("master commit");
+        System.out.println("hot-fix commit2");
     }
 }
