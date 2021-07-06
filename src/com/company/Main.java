@@ -71,5 +71,6 @@ public class Main {
         System.out.println("hot-fix branch");
         System.out.println("master commit");
         System.out.println("hot-fix commit2");
+        System.out.println("pull test");
     }
 }
